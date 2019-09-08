@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+build
+target
+bin
+*.iml
+.idea/
+work
+atlassian-ide-plugin.xml
+.work/
